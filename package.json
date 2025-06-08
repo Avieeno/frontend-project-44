@@ -23,5 +23,12 @@
   "homepage": "https://github.com/Avieeno/frontend-project-44#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@eslint/create-config": "^1.9.0",
+    "@eslint/js": "^9.28.0",
+    "@stylistic/eslint-plugin": "^4.4.1",
+    "eslint": "^9.28.0",
+    "globals": "^16.2.0"
   }
 }
